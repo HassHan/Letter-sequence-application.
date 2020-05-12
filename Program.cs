@@ -10,7 +10,6 @@ namespace Question1
     {
         static void Main(string[] args)
         {
-            Console.Title = ("Question 1"); //Console Title.
             Console.WriteLine("Hassan"); //Author Name.
             Console.WriteLine("\nWrite a static method that, given a sentence, returns the number"); //Question
             Console.WriteLine("of times that each letter of the alphabet occurs in the sentence."); //Question Continued...
